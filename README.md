@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I’m **Quang Khải**
 
-<!--
-**quangkhai19124/quangkhai19124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 **About Me**
+- 🎓 Student in **Computer Science** at HCMUT - Bach Khoa, Ho Chi Minh City
+- ☕ Currently focusing on **Backend Development with Java**
+- ⚙️ Future goal: Becoming a **DevOps Engineer** in the next **3–4 years**
+- 🚀 Passionate about **performance optimization** and **the accuracy of solving problems**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ **Tech Stack**
+
+- **Languages:**
+- **Frameworks/Libraries:**
+- **Databases:**
+- **Others/Tools:** 
+
+---
+
+## 🌐 Connect With Me
+- 📫 Email:[lqkhai19124@gmail.com](mailto:lqkhai19124@gmail.com)
+- 💼 LinkedIn:
+- 🐙 GitHub:[github.com/quangkhai19124](https://github.com/quangkhai19124)
+
+---
+⭐️ From [**Quang Khải**](https://github.com/quangkhai19124)
