@@ -2,8 +2,8 @@
 
 ## 👋 **About Me**
 - 🎓 Student in **Computer Science** at HCMUT - Bach Khoa, Ho Chi Minh City
-- ☕ Currently focusing on **Backend Development with Java**
-- ⚙️ Future goal: Becoming a **DevOps Engineer** in the next **3–4 years**
+- ☕ Currently focusing on **Backend Development with Python**
+- ⚙️ Future goal: Becoming a **MLOps Engineer** in the next **3–4 years**
 - 🚀 Passionate about **performance optimization** and **the accuracy of solving problems**
 
 ---
